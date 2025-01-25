@@ -1,0 +1,4 @@
+module MenuManagement {
+    header "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/MenuManagement-Swift.h"
+    requires objc
+}

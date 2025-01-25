@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/master.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Modules/MenuManagement/BaseMenuItem.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/BaseMenuItem.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/BaseMenuItem.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/BaseMenuItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/BaseMenuItem.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Modules/MenuManagement/MenuBarManager.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/MenuBarManager.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/MenuBarManager.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/MenuBarManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/MenuBarManager.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Modules/MenuManagement/MenuItemProtocol.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/MenuItemProtocol.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/MenuItemProtocol.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/MenuItemProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/MenuItemProtocol.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Modules/MenuManagement/Module.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/Module.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/Module.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/Module~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/Module.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Modules/MenuManagement/NetworkMenuManager.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/NetworkMenuManager.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/NetworkMenuManager.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/NetworkMenuManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/NetworkMenuManager.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Modules/MenuManagement/StatusMenuManager.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/StatusMenuManager.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/StatusMenuManager.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/StatusMenuManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/MenuManagement.build/StatusMenuManager.swiftdeps"
+  }
+}

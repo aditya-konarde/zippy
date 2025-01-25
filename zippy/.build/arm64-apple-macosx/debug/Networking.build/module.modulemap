@@ -1,0 +1,4 @@
+module Networking {
+    header "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Networking.build/Networking-Swift.h"
+    requires objc
+}

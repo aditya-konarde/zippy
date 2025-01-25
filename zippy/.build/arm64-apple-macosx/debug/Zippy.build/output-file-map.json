@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/master.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Sources/AppNetworkManager.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/AppNetworkManager.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/AppNetworkManager.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/AppNetworkManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/AppNetworkManager.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Sources/ConnectionManager.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/ConnectionManager.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/ConnectionManager.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/ConnectionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/ConnectionManager.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Sources/ConnectionManagerDelegate.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/ConnectionManagerDelegate.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/ConnectionManagerDelegate.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/ConnectionManagerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/ConnectionManagerDelegate.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Sources/NetworkBondManager.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkBondManager.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkBondManager.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkBondManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkBondManager.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Sources/NetworkMonitor.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkMonitor.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkMonitor.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkMonitor.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Sources/NetworkMonitorDelegate.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkMonitorDelegate.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkMonitorDelegate.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkMonitorDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkMonitorDelegate.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Sources/NetworkTypes.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkTypes.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkTypes.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/NetworkTypes.swiftdeps"
+  },
+  "/Users/aditya/Git/zippy/zippy/Sources/main.swift": {
+    "dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/main.d",
+    "object": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/main.swift.o",
+    "swiftmodule": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/aditya/Git/zippy/zippy/.build/arm64-apple-macosx/debug/Zippy.build/main.swiftdeps"
+  }
+}
